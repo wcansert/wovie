@@ -1,6 +1,6 @@
 # wovie
 
-A new Flutter project.
+An app which allows wander around film info screens by genres.
 
 ## Getting Started
 
