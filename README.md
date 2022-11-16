@@ -19,8 +19,8 @@ access the IMDB scores that many people may refer to for choosing movies.
 - In addition to the categories, there are sections popular, most viewed and
 recently added movies.
 - Beside these features, weekly movie recommendation top of main screen helps people to choose with short summary.
-- Simple home page icons to make easier to reach Genre page.
-- Summarize features for each movie to make easier decision by user
+- Simple home page icons to make easier to reach **Genre** page.
+- Summarize features for each movie to make easier decision by user.
 #
 
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/116381330/202251159-38b3d8db-5809-424c-bd0c-effa79d261d5.PNG)
